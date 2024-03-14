@@ -1,0 +1,17 @@
+button {
+  padding: 10px 20px;
+  background-color: #4caf50; /* Color de fondo verde */
+  color: white; /* Color del texto blanco */
+  border: none; /* Sin borde */
+  border-radius: 5px; /* Bordes redondeados */
+  cursor: pointer; /* Cursor tipo puntero al pasar sobre el botón */
+  margin-right: 10px; /* Espacio a la derecha de los botones */
+}
+
+button:hover {
+  background-color: #45a049; /* Color de fondo más oscuro al pasar el ratón */
+}
+
+button:active {
+  background-color: #3e8e41; /* Color de fondo más oscuro cuando se hace clic en el botón */
+}
